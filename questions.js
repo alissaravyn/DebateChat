@@ -158,7 +158,7 @@ questions = [
             "econ": -5,
             "dipl": 10,
             "govt": 10,
-            "scty": 5
+            "scty": 0
         }
     },
     {
@@ -176,7 +176,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -248,7 +248,7 @@ questions = [
             "econ": 0,
             "dipl": 5,
             "govt": -5,
-            "scty": 0
+            "scty": -5
         }
     },
     {
@@ -338,7 +338,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 5
+            "scty": 10
         }
     },
     {

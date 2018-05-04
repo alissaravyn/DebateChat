@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Maoism",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "National Capitalist",
         "stats": {
             "econ": 20,
             "dipl": 20,
